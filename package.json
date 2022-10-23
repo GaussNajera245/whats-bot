@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@pelevesque/change-number-base": "0.0.5",
+    "change-radix": "0.0.4",
     "fs": "0.0.1-security",
+    "power-radix": "^2.5.6",
+    "public-ip": "^4.0.4",
     "puppeteer": "^10.2.0",
     "qr-maker": "^2.0.0",
     "qrcode-svg": "^1.1.0",
